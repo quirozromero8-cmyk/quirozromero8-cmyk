@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomas
 
-I'm a **Data Scientist with a strong background in Anthropology and logistics programs**. Experimenting with data analysis in social behavior.
+I'm a *Data Scientist with a strong background in Anthropology and logistics/program management. Experimenting with data analysis applied to social behavior.
 
 # Tools & Skills:
 
